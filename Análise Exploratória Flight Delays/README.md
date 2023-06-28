@@ -2,5 +2,8 @@
 
 Análise exploratória utilizando principalmente a biblioteca pandas, para responder a solicitações como exercício.
 
-Biblioteca utilizada:
-Pandas
+### Linguagem utilizada
+- Python
+
+### Bibliotecas e ferramentas
+- Pandas
